@@ -1,0 +1,47 @@
+body{
+    font-family: "Mountains of Christmas", serif;
+    text-align: center;
+    background-image: url(/assets/img/giochi-di-Natale.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+   
+}
+.margine{
+  margin-left: 550px;
+  margin-right: 550px;
+}
+
+#estrai{
+  font-family: "Mountains of Christmas", serif;
+  font-weight: bolder;
+  border: transparent;
+  background-color: transparent;
+  font-size: 3em;
+  width: 120px;
+  padding: 10px;
+}
+
+#tombola div {
+  font-size: 2em;
+  font-weight: bolder;
+  color: rgb(91, 1, 1);
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  line-height: 30px;
+  text-align: center;
+  margin: 5px;
+  border: 3px solid darkgreen;
+  border-radius: 50%;
+  padding: 10px;
+  
+}
+
+
+.estratto {
+  background-color: darkgreen;
+  width: px;
+}
